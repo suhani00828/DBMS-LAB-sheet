@@ -1,0 +1,1 @@
+Department.DeptID is the primary key because it uniquely identifies each department and cannot be NULL.
